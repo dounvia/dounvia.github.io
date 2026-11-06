@@ -1,0 +1,9 @@
+env;type;noeud;hostname;ip;user_ssh;url;cluster
+QUA;traitement;Traitement 1;SRV-QUA-TRT1;192.0.2.11;utilisateur;https://srv-qua-trt1.exemple.local:8444/;Oui
+QUA;traitement;Traitement 2;SRV-QUA-TRT2;192.0.2.12;utilisateur;https://srv-qua-trt2.exemple.local:8444/;Oui
+QUA;traitement;Traitement 3;SRV-QUA-TRT3;192.0.2.13;utilisateur;https://srv-qua-trt3.exemple.local:8444/;Oui
+DEV;traitement;Traitement 1;SRV-DEV-TRT1;198.51.100.11;utilisateur;https://srv-dev-trt1.exemple.local:8444/;Oui
+DEV;traitement;Traitement 2;SRV-DEV-TRT2;198.51.100.12;utilisateur;https://srv-dev-trt2.exemple.local:8444/;Oui
+INT;traitement;Traitement 1;SRV-INT-TRT1;203.0.113.11;utilisateur;https://srv-int-trt1.exemple.local:8444/;Oui
+INT;traitement;Traitement 2;SRV-INT-TRT2;203.0.113.12;utilisateur;https://srv-int-trt2.exemple.local:8444/;Oui
+INT;traitement;Traitement 3;SRV-INT-TRT3;203.0.113.13;utilisateur;https://srv-int-trt3.exemple.local:8444/;Oui
