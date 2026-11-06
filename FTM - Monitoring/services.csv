@@ -1,8 +1,0 @@
-type;categorie;service;port;commande_ssh;lien
-traitement;acces;SSH;22;;
-traitement;acces;IHM;8444;;oui
-traitement;service;Admin Service;;pgrep -f '[D]ct=admin( |$)';
-traitement;service;Transaction Manager;;pgrep -f '[D]ct=tm( |$)';
-traitement;service;HTTP Service (HTTPS);;pgrep -f '[D]ct=httpd( |$)';
-traitement;service;SSH Service (SFTP);;pgrep -f '[D]ct=sshd( |$)';
-traitement;service;Monitor;;pgrep -f '[D]ct=monitord( |$)';
